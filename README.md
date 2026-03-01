@@ -33,6 +33,6 @@ Desenvolver:
 - Organização e modularização de código
 - Entendimento de memória e ponteiros
 - Base para disciplinas como Estruturas de Dados e Sistemas
+
 ---
 
-📌 Repositório acadêmico em constante atualização conforme o avan
